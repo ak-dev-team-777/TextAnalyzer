@@ -1,0 +1,36 @@
+[Bb]in
+[Dd]ebug*/
+[Oo]bj/
+.vs/
+ReSharper.*/
+
+packages/
+test_results/
+
+*.log
+*.suo
+*.user
+*.userprefs
+*.jfm
+*.vspscc
+*.vssscc
+*.pfx
+*.dbmdl
+*.coverage
+*.trx
+*.pubxml
+
+# compressed archives
+*.rar
+*.zip
+
+# local arm files for publishing
+src/**/profile.arm.json
+
+# VS extensions files
+*.favdoc
+
+src/**/Properties/launchSettings.json
+
+
+
